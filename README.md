@@ -45,7 +45,7 @@ The image has the most popular tools pre-installed. Check the [image documentati
 The image has the most popular tools pre-installed. Check the [image documentation](/images/arm-windows-11-image.md) for more details. **It is a recommended image to use with Windows Arm64 Runners.** 
 
 ### Images for IBM Power (ppc64le) and IBM Z (s390x)
-The self-hosted runner image is available in [this repo](https://github.com/IBM/action-runner-image-pz) under the Apache 2.0 License. The image supports multiple environments for both s390x and ppc64le including VM, LXD container, Docker, and Podman. You can request to use our images in IBM Cloud by submitting a new request [in our our repo here.](https://github.com/IBM/actionspz/issues)
+The self-hosted runner image is available in [this repo](https://github.com/IBM/action-runner-image-pz) under the Apache 2.0 License. The image supports multiple environments for both s390x and ppc64le including VM, LXD container, Docker, and Podman. You can request to use our images in IBM Cloud by submitting a new request [in our repo here.](https://github.com/IBM/actionspz/issues)
 
 ### Blogs
 - [Accelerate your CI/CD with Arm-based hosted runners in GitHub Actions](https://github.blog/changelog/2023-10-30-accelerate-your-ci-cd-with-arm-based-hosted-runners-in-github-actions/)
